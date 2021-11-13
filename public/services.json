@@ -1,0 +1,44 @@
+[
+    {
+        
+        "name": "SALE! PHANTOM 3 STANDARD QUADCOPTER",
+        "price": "30000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://i.ebayimg.com/images/g/lDwAAOSw4C5fHlmA/s-l640.jpg"
+    },
+    {
+        
+        "name": "ULTRAPORTABLE 4K QUADCOPTER (FLAME RED)",
+        "price": "11000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://images.fonearena.com/blog/wp-content/uploads/2018/01/DJI-Mavic-Air-1-1024x593.jpg"
+    },
+    {
+        
+        "name": "SALE!ULTRAPORTABLE 4K QUADCOPTER (WHITE)",
+        "price": "15000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://www.dronenerds.com/media/product/c20/dji-mavic-air-ultraportable-4k-quadcopter-arctic-white-dji-refurbished-cp-pt-00000138-02-e-dji-4f3.jpg"
+    },
+    {
+        
+        "name": "PHANTOM 4 PRO PLUS OBSIDIAN DRONE",
+        "price": "18000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://cdn.pocket-lint.com/r/s/1200x/assets/images/142367-drones-review-dji-phantom-4-pro-obsidian-image1-ybyqkjpwxr.jpg"
+    },
+    {
+        "id": 5,
+        "name": "DRONE TRANSMITTER SYSTEM WITH RECEIVER",
+        "price": "10010",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa.",
+        "img": "https://www.ubuy.com.bd/productimg/?image=aHR0cHM6Ly9tLm1lZGlhLWFtYXpvbi5jb20vaW1hZ2VzL0kvNzFnbGlweXI4Z0wuX0FDX1NMMTUwMF8uanBn.jpg"
+    },
+    {
+        "id": 6,
+        "name": "DRONE REMOTE CONTROLLER TABLET HOLDER",
+        "price": "3000",
+        "description": "Lorem ipsum dolor sit amet, consectetu radipisi cing elitBeatae autem aperiam nequ quaera molestias voluptatibus harum ametipsa",
+        "img": "https://cdn.shopify.com/s/files/1/1167/5332/products/mavic_2_remote_controller_tablet_holder_2048x2048.jpg?v=1540553453"
+    }
+]
